@@ -1,0 +1,31 @@
+{
+  "name": "expnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start":"nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avocado0595/expnodejs.git"
+  },
+  "keywords": [
+    "practice",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Avocado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avocado0595/expnodejs/issues"
+  },
+  "homepage": "https://github.com/Avocado0595/expnodejs#readme"
+}
